@@ -1,3 +1,6 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.1-blue)
+
+
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo" width="100" />
 
@@ -6,7 +9,7 @@
 </div>
 
 ---
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 
 ---
 
