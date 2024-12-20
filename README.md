@@ -9,5 +9,18 @@
 </div>
 
 <div align="center">
+  <p>O repositório está organizado em seções para facilitar a navegação:</p>
+  <ul>
+    <li><strong>Basics</strong>: Fundamentos da linguagem, como tipos de dados, variáveis, estruturas de controle e funções.</li>
+    <li><strong>Object-Oriented Programming (OOP)</strong>: Exemplos de classes, herança, interfaces e abstração.</li>
+    <li><strong>Collections</strong>: Trabalhando com listas, mapas, conjuntos e outras coleções.</li>
+    <li><strong>Functional Programming</strong>: Lambdas, funções de ordem superior e programação funcional em Kotlin.</li>
+    <li><strong>Coroutines</strong>: Trabalhando com concorrência e assíncrono em Kotlin.</li>
+    <li><strong>APIs e Integrações</strong>: Exemplos de criação e consumo de APIs usando Kotlin.</li>
+    <li><strong>Projetos Práticos</strong>: Pequenos projetos para aplicar os conceitos aprendidos.</li>
+  </ul>
+</div>
+
+<div align="center">
   <p>Feito com ❤️ enquanto aprendo Kotlin!</p>
 </div>
