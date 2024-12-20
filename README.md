@@ -8,6 +8,8 @@
   <h2>🎨 Neste repositório tem alguns códigos que fiz enquanto aprendo Kotlin.</h2>
 </div>
 
+<hr>
+
 <div align="center">
   <p>O repositório está organizado em seções para facilitar a navegação:</p>
   <ul>
@@ -20,6 +22,8 @@
     <li><strong>Projetos Práticos</strong>: Pequenos projetos para aplicar os conceitos aprendidos.</li>
   </ul>
 </div>
+
+<hr>
 
 <div align="center">
   <p>Feito com ❤️ enquanto aprendo Kotlin!</p>
