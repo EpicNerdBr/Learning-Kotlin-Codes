@@ -6,6 +6,9 @@
 </div>
 
 ---
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+---
 
 <div align="center">
   Feito com ❤️ enquanto aprendo Kotlin!
