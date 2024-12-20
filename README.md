@@ -11,6 +11,10 @@
 
 ---
 
+![Build Status](https://travis-ci.com/seu-usuario/seu-repositorio.svg?branch=main)
+![CircleCI](https://circleci.com/gh/EpicNerdbr/Learnin-Kotlin-Codes.svg?style=shield)
+![GitHub Actions](https://github.com/EpicNerdbr/Learnin-Kotlin-Codes/workflows/CI/badge.svg)
+
 
 ---
 
