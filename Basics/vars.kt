@@ -1,7 +1,6 @@
 package org.EpicNerd
 
 fun main() {
-    // Definindo o número inicial de ingressos, baldes de pipoca e clientes
     val totalTickets = 8
     var totalBucketsOfPopcorn = 9
     var totalCustomers = 7
